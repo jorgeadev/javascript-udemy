@@ -1,2 +1,2 @@
-# udemy_javascript
+# JavaScript course from Udemy
  Repositorio para el curso gratis de javascript de udemy ...
